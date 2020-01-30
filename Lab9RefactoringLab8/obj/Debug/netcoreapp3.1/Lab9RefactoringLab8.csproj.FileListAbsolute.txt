@@ -1,0 +1,11 @@
+C:\Users\cdzie\source\repos\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.exe
+C:\Users\cdzie\source\repos\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.deps.json
+C:\Users\cdzie\source\repos\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.runtimeconfig.json
+C:\Users\cdzie\source\repos\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.runtimeconfig.dev.json
+C:\Users\cdzie\source\repos\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.dll
+C:\Users\cdzie\source\repos\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.pdb
+C:\Users\cdzie\source\repos\Lab9RefactoringLab8\Lab9RefactoringLab8\obj\Debug\netcoreapp3.1\Lab9RefactoringLab8.csprojAssemblyReference.cache
+C:\Users\cdzie\source\repos\Lab9RefactoringLab8\Lab9RefactoringLab8\obj\Debug\netcoreapp3.1\Lab9RefactoringLab8.AssemblyInfoInputs.cache
+C:\Users\cdzie\source\repos\Lab9RefactoringLab8\Lab9RefactoringLab8\obj\Debug\netcoreapp3.1\Lab9RefactoringLab8.AssemblyInfo.cs
+C:\Users\cdzie\source\repos\Lab9RefactoringLab8\Lab9RefactoringLab8\obj\Debug\netcoreapp3.1\Lab9RefactoringLab8.dll
+C:\Users\cdzie\source\repos\Lab9RefactoringLab8\Lab9RefactoringLab8\obj\Debug\netcoreapp3.1\Lab9RefactoringLab8.pdb
